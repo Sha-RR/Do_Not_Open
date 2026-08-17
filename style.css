@@ -11,7 +11,7 @@ body {
 }
 /* Black area */
 .document {
-  /*width: 850px;*/
+  width: 850px;
   min-height: 100vh;
   margin: 0 auto;
   background: #000000;
